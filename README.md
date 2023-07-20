@@ -1,3 +1,5 @@
-# Ranftl_Matthias_GPE
+# SolarProject
 
-Repository for Game Production Environments
+Unity project of a simulation of our solar system with realistic physic calculations.
+
+Made by Matthias Ranftl for University of Applied Science Salzburg.
